@@ -10,6 +10,7 @@
 
   body{
     font-family: sans;
+    direction: rtl;
   }
 
 .navbar-css{
@@ -74,6 +75,10 @@ a{
 
 .navbar-css-btn-title{
     margin: auto;
+}
+
+.navbar-css-my-lessons{
+    margin-right: 400px;
 }
 
 .div-footer{
