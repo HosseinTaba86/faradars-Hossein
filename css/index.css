@@ -121,4 +121,26 @@ a{
     font-size: 18px;
     font-family: bold;
     color: white;
+
+}
+
+.hero-holder{
+    flex-direction: column;
+}
+
+.hero-section-title{
+    width: fit-content;
+    height: fit-content;
+}
+
+.hero-search{
+    width: fit-content;
+    height: fit-content;
+}
+
+.hero-search-ico{
+    position: absolute;
+    right: 410px;
+    top: 182px;
+    color: #71717A;
 }
